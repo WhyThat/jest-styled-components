@@ -1,6 +1,6 @@
 {
   "name": "jest-styled-components",
-  "version": "2.0.0",
+  "version": "3.0.0-0",
   "description": "Jest utilities for Styled Components",
   "main": "./src/index.js",
   "files": [
@@ -35,7 +35,7 @@
     "react-dom": "^15.5.4",
     "react-test-renderer": "^15.5.4",
     "strip-ansi": "^3.0.1",
-    "styled-components": "^1.4.6"
+    "styled-components": "rc"
   },
   "dependencies": {
     "css": "^2.2.1"
